@@ -1,0 +1,9 @@
+ticker: "AAPL"
+interval: "1d"
+start_date: "2015-01-01"
+context_length: 512
+horizon: 5
+model_name: "google/timesfm-2.5-200m-pytorch"
+lr: 0.0001
+epochs: 5
+batch_size: 32

@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+torch
+transformers
+pandas-ta
+vectorbt
+mlflow
+pyyaml
+scikit-learn
+tqdm
